@@ -7,7 +7,7 @@ const config: DocsThemeConfig = {
     link: 'https://github.com/shuding/nextra-docs-template',
   },
   chat: {
-    link: 'https://discord.com',
+    link: 'https://classic.austlii.edu.au/au/legis/nsw/consol_act/ssma2015242/',
   },
   docsRepositoryBase: 'https://github.com/shuding/nextra-docs-template',
   footer: {
